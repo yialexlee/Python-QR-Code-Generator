@@ -1,5 +1,6 @@
 # Simple-QR-Code-Generator
 Simple QR Code Generator develope in python
+
 #Requirement
 * Python
 * [qrcode](https://pypi.org/project/qrcode/)
